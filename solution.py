@@ -10,4 +10,4 @@ d = 100
 word1 = s[a:b+1]
 word2 = s[c:d+1]
 
-print(word1 + " " + word2)
+print("The answer is: " + word1 + " " + word2)
